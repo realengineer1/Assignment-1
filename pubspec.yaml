@@ -1,0 +1,12 @@
+name: my_flutter_app
+description: A new Flutter application
+
+dependencies:
+  flutter:
+    sdk: flutter
+  fluttertoast: ^8.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
